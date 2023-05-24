@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, i AM Ade Muslim</h1>
-<h3 align="center">Undefined. ⚡Fun fact i AM newbie.</h3>
+<h3 align="center">Undefined⚡ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amuslim12&label=Profile%20views&color=0e75b6&style=flat" alt="amuslim12" /> </p>
 
@@ -11,9 +11,6 @@
 <p align="left">
 <a href="https://instagram.com/_amuslim12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/_amuslim12" height="30" width="40" /></a>
 </p>
-
-<h4 align="left">Support:</h4>
-<p><a href="https://ko-fi.com/ko-fi.com/amuslim12"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/amuslim12" /></a></p><br><br>
 
 
 <!--
